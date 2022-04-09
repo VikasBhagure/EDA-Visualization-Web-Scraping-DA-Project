@@ -1,0 +1,22 @@
+order_id,customer_id,order_date,customer_name,state,category,sub_category,sales
+CA-2016-152156,CG-12520,11/8/2016,Claire Gute,Kentucky,Furniture,Bookcases,261.96
+CA-2016-152156,CG-12520,11/8/2016,Claire Gute,Kentucky,Furniture,Chairs,731.94
+CA-2016-138688,DV-13045,6/12/2016,Darrin Van Huff,California,Office Supplies,Labels,14.62
+US-2015-108966,SO-20335,10/11/2015,Sean O'Donnell,Florida,Furniture,Tables,957.5775
+US-2015-108966,SO-20335,10/11/2015,Sean O'Donnell,Florida,Office Supplies,Storage,22.368
+CA-2014-115812,BH-11710,6/9/2014,Brosina Hoffman,California,Furniture,Furnishings,48.86
+CA-2014-115812,BH-11710,6/9/2014,Brosina Hoffman,California,Office Supplies,Art,7.28
+CA-2014-115812,BH-11710,6/9/2014,Brosina Hoffman,California,Technology,Phones,907.152
+CA-2014-115812,BH-11710,6/9/2014,Brosina Hoffman,California,Office Supplies,Binders,18.504
+CA-2014-115812,BH-11710,6/9/2014,Brosina Hoffman,California,Office Supplies,Appliances,114.9
+CA-2014-115812,BH-11710,6/9/2014,Brosina Hoffman,California,Furniture,Tables,1706.184
+CA-2014-115812,BH-11710,6/9/2014,Brosina Hoffman,California,Technology,Phones,911.424
+CA-2017-114412,AA-10480,4/15/2017,Andrew Allen,North Carolina,Office Supplies,Paper,15.552
+CA-2016-161389,IM-15070,12/5/2016,Irene Maddox,Washington,Office Supplies,Binders,407.976
+US-2015-118983,HP-14815,11/22/2015,Harold Pawlan,Texas,Office Supplies,Appliances,68.81
+US-2015-118983,HP-14815,11/22/2015,Harold Pawlan,Texas,Office Supplies,Binders,2.544
+CA-2014-105893,PK-19075,11/11/2014,Pete Kriz,Wisconsin,Office Supplies,Storage,665.88
+CA-2014-167164,AG-10270,5/13/2014,Alejandro Grove,Utah,Office Supplies,Storage,55.5
+CA-2014-143336,ZD-21925,8/27/2014,Zuschuss Donatelli,California,Office Supplies,Art,8.56
+CA-2014-143336,ZD-21925,8/27/2014,Zuschuss Donatelli,California,Technology,Phones,213.48
+CA-2014-143336,ZD-21925,8/27/2014,Zuschuss Donatelli,California,Office Supplies,Binders,22.72

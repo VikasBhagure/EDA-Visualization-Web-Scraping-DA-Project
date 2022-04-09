@@ -1,0 +1,25 @@
+index,customer_id,Product_name,Product_price,Product_rating
+0,CG-12520,"REDMI 9i Sport (Coral Green, 64 GB)","₹8,799",4.4
+1,CG-12520,"realme Narzo 50A (Oxygen Blue, 64 GB)","₹11,499",4.4
+2,DV-13045,"realme 8i (Space Black, 128 GB)","₹15,999",4.4
+3,SO-20335,"realme 8i (Space Black, 64 GB)","₹13,999",4.5
+4,SO-20335,"realme Narzo 50A (Oxygen Green, 64 GB)","₹11,499",4.4
+5,BH-11710,"realme Narzo 50A (Oxygen Blue, 128 GB)","₹12,499",4.4
+6,BH-11710,"REDMI 9i Sport (Metallic Blue, 64 GB)","₹8,799",4.4
+7,BH-11710,"REDMI 9i Sport (Carbon Black, 64 GB)","₹8,799",4.4
+8,BH-11710,"APPLE iPhone SE (Red, 64 GB)","₹27,999",4.5
+9,BH-11710,"POCO C31 (Shadow Gray, 64 GB)","₹8,999",4.4
+10,BH-11710,"realme C21Y (Cross Black, 32 GB)","₹9,499",4.6
+11,BH-11710,"realme C21Y (Cross Black, 64 GB)","₹10,499",4.5
+12,AA-10480,"realme C21Y (Cross Blue, 64 GB)","₹10,499",4.5
+13,IM-15070,"POCO C31 (Royal Blue, 32 GB)","₹7,999",4.4
+14,HP-14815,"realme C21Y (Cross Blue, 32 GB)","₹9,499",4.6
+15,HP-14815,"APPLE iPhone 12 Mini (Black, 64 GB)","₹38,999",4.5
+16,PK-19075,"MOTOROLA g31 (Baby Blue, 64 GB)","₹12,999",4.3
+17,AG-10270,"APPLE iPhone SE (White, 64 GB)","₹27,999",4.5
+18,ZD-21925,"MOTOROLA g31 (Meteorite Grey, 64 GB)","₹12,999",4.3
+19,ZD-21925,"realme 8 (Cyber Black, 128 GB)","₹16,999",4.4
+20,ZD-21925,"realme 8 (Cyber Silver, 128 GB)","₹17,999",4.4
+21,,"realme C11 2021 (Cool Grey, 32 GB)","₹7,499",4.4
+22,,"realme C11 2021 (Cool Grey, 64 GB)","₹8,999",4.3
+23,,"realme C11 2021 (Cool Blue, 64 GB)","₹8,999",4.3
